@@ -1,4 +1,5 @@
 **Vision: AI Assistant**
+
 This project is a Python-based AI assistant named Vision. It integrates various APIs and libraries to provide functionalities such as speech recognition, text-to-speech, real-time web searching, and automated system commands through a graphical user interface.
 
 **Project Overview**
